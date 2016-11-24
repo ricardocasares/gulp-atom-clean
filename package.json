@@ -1,0 +1,13 @@
+{
+  "name": "gulp-atom-clean",
+  "version": "1.0.0",
+  "description": "Atom to clean files and folders",
+  "main": "index.js",
+  "author": "Ricardo Casares",
+  "license": "GPLv3",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ricardocasares/gulp-atom-clean.git"
+  },
+  "bugs": "https://github.com/ricardocasares/gulp-atom-clean/issues"
+}
