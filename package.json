@@ -5,9 +5,12 @@
   "main": "index.js",
   "author": "Ricardo Casares",
   "license": "GPLv3",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/ricardocasares/gulp-atom-clean.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardocasares/gulp-atom-clean.git"
   },
-  "bugs": "https://github.com/ricardocasares/gulp-atom-clean/issues"
+  "bugs": "https://github.com/ricardocasares/gulp-atom-clean/issues",
+  "dependencies": {
+    "del": "^2.2.2"
+  }
 }
